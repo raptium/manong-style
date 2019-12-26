@@ -1,0 +1,54 @@
+{
+  "vertical": [
+    {
+      "color": "#b8a081",
+      "repeat": 6
+    },
+    {
+      "color": "#a70100",
+      "repeat": 4
+    },
+    {
+      "color": "#b8a081",
+      "repeat": 32
+    },
+    {
+      "color": "#0d100e",
+      "repeat": 10
+    },
+    {
+      "color": "#747674",
+      "repeat": 10
+    },
+    {
+      "color": "#0d100e",
+      "repeat": 10
+    }
+  ],
+  "horizontal": [
+    {
+      "color": "#b8a081",
+      "repeat": 6
+    },
+    {
+      "color": "#a70100",
+      "repeat": 4
+    },
+    {
+      "color": "#b8a081",
+      "repeat": 32
+    },
+    {
+      "color": "#0d100e",
+      "repeat": 10
+    },
+    {
+      "color": "#747674",
+      "repeat": 10
+    },
+    {
+      "color": "#0d100e",
+      "repeat": 10
+    }
+  ]
+}
